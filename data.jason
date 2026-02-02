@@ -1,0 +1,6 @@
+{
+    "project": "Git and GitHub Lab",
+    "author": "Student",
+    "version": "1.0.0",
+    "files": ["Main.java", "script.py", "styles.css", "index.html", "app.js", "data.json", "README.md"]
+}
